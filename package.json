@@ -10,9 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "pug": "^2.0.3",
     "peer": "^0.2.8",
+    "mongodb": "^3.0.5",
     "mongoskin": "^2.1.0",
+    "pug": "^2.0.3",
     "stylus": "^0.54.5"
   }
 }
