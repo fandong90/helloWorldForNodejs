@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "pug": "^2.0.3",
+    "peer": "^0.2.8",
+    "mongoskin": "^2.1.0",
+    "stylus": "^0.54.5"
   }
 }
